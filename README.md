@@ -1,2 +1,2 @@
 # DARKMATTER
-Project Dark 
+OpenHELL architecture and framework; kernel, installer, logic, theory.
